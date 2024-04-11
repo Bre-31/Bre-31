@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rahul Yadav</h1>
-<h3 align="center">Full Stack Developer</h3>
+<h3 align="center">php/larvel developer</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bre-31&label=Profile%20views&color=0e75b6&style=flat" alt="bre-31" /> </p>
